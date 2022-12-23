@@ -107,3 +107,4 @@ dist
 # custom
 package-lock.json
 .idea
+report.html
